@@ -57,6 +57,7 @@ header nav a:hover {
     justify-content: center;
     align-items: center;
     text-align: center;
+    background-size: cover;
 }
 
 .hero h1 {
